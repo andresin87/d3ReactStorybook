@@ -1,0 +1,24 @@
+{
+  "name": "dereactstorybook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andresin87/d3ReactStorybook.git"
+  },
+  "keywords": [
+    "d3",
+    "react",
+    "storybook"
+  ],
+  "author": "@andresin87",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andresin87/d3ReactStorybook/issues"
+  },
+  "homepage": "https://github.com/andresin87/d3ReactStorybook#readme"
+}
