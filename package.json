@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "storybook": "start-storybook -p 9001 -c .storybook"
   },
   "repository": {
     "type": "git",
@@ -20,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/andresin87/d3ReactStorybook/issues"
   },
-  "homepage": "https://github.com/andresin87/d3ReactStorybook#readme"
+  "homepage": "https://github.com/andresin87/d3ReactStorybook#readme",
+  "devDependencies": {
+    "@kadira/storybook": "^2.13.0"
+  }
 }
