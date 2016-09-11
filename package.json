@@ -23,7 +23,10 @@
   },
   "homepage": "https://github.com/andresin87/d3ReactStorybook#readme",
   "dependencies": {
-    "react": "^15.3.1"
+    "d3": "^4.2.2",
+    "react": "^15.3.1",
+    "react-addons-transition-group": "^15.3.1",
+    "react-dom": "^15.3.1"
   },
   "devDependencies": {
     "@kadira/storybook": "^2.13.0"

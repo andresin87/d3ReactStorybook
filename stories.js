@@ -1,1 +1,1 @@
-import * from components;
+import './components/alphabet/stories';
