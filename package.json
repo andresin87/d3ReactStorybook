@@ -22,6 +22,9 @@
     "url": "https://github.com/andresin87/d3ReactStorybook/issues"
   },
   "homepage": "https://github.com/andresin87/d3ReactStorybook#readme",
+  "dependencies": {
+    "react": "^15.3.1"
+  },
   "devDependencies": {
     "@kadira/storybook": "^2.13.0"
   }
