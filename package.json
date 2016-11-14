@@ -26,7 +26,8 @@
     "d3": "^4.2.2",
     "react": "^15.3.1",
     "react-addons-transition-group": "^15.3.1",
-    "react-dom": "^15.3.1"
+    "react-dom": "^15.3.1",
+    "react-draft-wysiwyg": "^0.2.4"
   },
   "devDependencies": {
     "@kadira/storybook": "^2.13.0"
