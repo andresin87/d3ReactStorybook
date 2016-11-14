@@ -5,7 +5,7 @@ import React from 'react';
 import { storiesOf, action } from '@kadira/storybook';
 import Wysiwyg from './';
 
-storiesOf('Alphabet', module)
+storiesOf('Wysiwyg', module)
     .add('single', () => (
         <div className="container">
             <Wysiwyg/>
